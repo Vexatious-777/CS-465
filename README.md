@@ -1,4 +1,4 @@
-# CS-465
+# Travel Site SPA - CS-465
 
 The types of front-end development I used in my full stack project included Express HTML, JavaScript, and a Single Page Application (SPA) architecture...
 
