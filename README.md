@@ -1,14 +1,56 @@
-# Travel Site SPA - CS-465
+# Travel Site SPA
 
-The types of front-end development I used in my full stack project included Express HTML, JavaScript, and a Single Page Application (SPA) architecture...
+A responsive, full-stack Single Page Application designed to improve user experience by dynamically serving travel-related content. Built using the MEAN (MongoDB, Express, Angular/JavaScript) architecture, this project showcases front-end SPAs, backend integration, and API testing techniques.
 
-The backend uses a NoSQL MongoDB database because it allows the ability to store documents with variying structures in the same place enabling flexibility. This in turn enables this project to change what will be stored within the database over time giving this project said flexibility. It also stores data in binary JSON files which is compatible with most modern applications and in this specific case lends itself well to MEAN stacks and works well with this project's requirements.
+---
 
-JSON is different from JavaScript in many ways JSON is a means to store and represent data and the name itself is an acronym that stands for JavaScript Object Notation. While JavaScript is a programming language typically used in web applications, this can either be the front-end user interface or the back-end logic.
+##  Project Highlights
 
-There were a few instances during this project where the code was refactored to improve functionality and efficiency such as when it was refactored from an Express HTML-based application to then a Single Page Application that instead of running mostly server-side to one that runs more on the client-side to improve the end-user experience.
+- **Migration from MVC to SPA** - Initially built the project using the Model View Controller method and then Migrated to a Single Page Application method 
+- **Single Page Interface** – Seamless, client-side routing for fluid navigation and user interaction.
+- **Flexible NoSQL Database** – MongoDB stores JSON documents with dynamic structures, allowing schema evolution during development.
+- **Refactoring for Performance** – Transitioned from a traditional Express + HTML app to a SPA to enhance responsiveness and UX.
+- **API Testing with Postman** – Tested and validated REST endpoints to ensure correct backend responses and reliability.
+- **Security Considerations** – Explored implementation of JWT-based authentication; encountered challenges that informed further security refinement.
 
-The methods for testing various types of API endpoints that I used in this project included the use of API endpoint testing tools, specifically POSTMan in this instance which ensured the code correctly makes the correct calls to particular endpoints and in return received the correct results. The difficulty of adding security measures is larger than one might expect and in this early build of the project, I did not find much success with the suggested security measures and will have to look for other potential ways to include them since my Java Web Tokens (JWT) did not seem to properly be checked against my back end after they are issued to the user client side in my implementation.
+---
 
-This course has helped me reach my professional goals by teaching me about Full-Stack applications in detail and showing me techniques and ideas that facilitate their creation.
-Not only that but by made me more familiar with version control systems specifically that of Git, which is more in line with the way that professional settings handle application production.
+##  Tech Stack
+
+| Layer        | Technology        |
+|--------------|-------------------|
+| Front-end    | HTML, JavaScript, SPA framework (e.g., Angular or React) |
+| Back-end     | Node.js, Express  |
+| Database     | MongoDB           |
+| Testing      | Postman           |
+| Version Control | Git & GitHub  |
+
+---
+
+##  Setup & Running the Project
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Vexatious-777/CS-465.git
+   nstall dependencies
+
+2. Install dependencies
+3. Start backedn and frontend servers
+4. Interact or explore endpoints via Postman
+---
+Learning Outcomes
+- Building client-heavy web applications using SPA Architecture
+- Intergrating backend services with a NoSQL database
+- Designing and testing RESTful APIs
+- The Significance of refactoring for performance and user experience
+- Early-stage handling of security challenges like authentication
+---
+Educational Impact
+This project deepened my understanding of full-stack web development, SPA methodologies, and API integrity. It also taught me the importance of iterative design, thorough testing, and the complexities of real-world security requirements.
+---
+License
+Created for academic purposes under SNHU coursework. Open-source and available for learning and demonstration.
+
+
+
+
