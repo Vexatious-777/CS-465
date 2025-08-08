@@ -2,8 +2,12 @@
 
 A responsive, full-stack Single Page Application designed to improve user experience by dynamically serving travel-related content. Built using the MEAN (MongoDB, Express, Angular/JavaScript) architecture, this project showcases front-end SPAs, backend integration, and API testing techniques.
 
+## Screenshot
+-
+<img width="2539" height="1341" alt="Screenshot 2024-10-18 234515" src="https://github.com/user-attachments/assets/2040d76b-00ab-475b-b3b7-7b62a07ddef9" />
+-
+<img width="1274" height="698" alt="Screenshot 2024-10-20 113207" src="https://github.com/user-attachments/assets/d78c2ecb-b373-4d4f-98ab-12b4f7c27f91" />
 ---
-
 ##  Project Highlights
 
 - **Migration from MVC to SPA** - Initially built the project using the Model View Controller method and then Migrated to a Single Page Application method 
