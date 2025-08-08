@@ -46,7 +46,9 @@ Learning Outcomes
 - Early-stage handling of security challenges like authentication
 ---
 Educational Impact
+
 This project deepened my understanding of full-stack web development, SPA methodologies, and API integrity. It also taught me the importance of iterative design, thorough testing, and the complexities of real-world security requirements.
+
 ---
 License
 Created for academic purposes under SNHU coursework. Open-source and available for learning and demonstration.
