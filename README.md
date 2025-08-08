@@ -36,10 +36,9 @@ A responsive, full-stack Single Page Application designed to improve user experi
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Vexatious-777/CS-465.git
-   nstall dependencies
 
 2. Install dependencies
-3. Start backedn and frontend servers
+3. Start backend and frontend servers
 4. Interact or explore endpoints via Postman
 ---
 ## Learning Outcomes
