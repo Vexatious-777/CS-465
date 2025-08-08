@@ -38,19 +38,19 @@ A responsive, full-stack Single Page Application designed to improve user experi
 3. Start backedn and frontend servers
 4. Interact or explore endpoints via Postman
 ---
-Learning Outcomes
+## Learning Outcomes
 - Building client-heavy web applications using SPA Architecture
 - Intergrating backend services with a NoSQL database
 - Designing and testing RESTful APIs
 - The Significance of refactoring for performance and user experience
 - Early-stage handling of security challenges like authentication
 ---
-Educational Impact
+## Educational Impact
 
 This project deepened my understanding of full-stack web development, SPA methodologies, and API integrity. It also taught me the importance of iterative design, thorough testing, and the complexities of real-world security requirements.
 
 ---
-License
+## License
 Created for academic purposes under SNHU coursework. Open-source and available for learning and demonstration.
 
 
